@@ -1,4 +1,11 @@
 aritzia_images/
+ami_images/
+maje_images/
 data/
+hyperparameter_tuning/
 clothing_classifier.keras
+combined_clothing_classifier_augmented.keras
+combined_clothing_classifier_with_maje.keras
+combined_clothing_classifier.keras
+best_clothing_classifier.keras
 .DS_Store
